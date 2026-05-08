@@ -35,7 +35,7 @@ This project demonstrates strong **SQL analytical skills** by exploring a busine
    git clone https://github.com/Narges2017/Sql-Data-Analytics-Project-Main.git
   ##  📊 Project Roadmap
 <img src="Docs/Project_%20Roadmap.png" alt="Project Roadmap">
-## ✨ What I Learned
+ ✨ What I Learned
 
 - Writing clean and efficient analytical SQL queries
 - Different types of business analysis techniques
